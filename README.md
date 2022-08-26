@@ -1,7 +1,5 @@
-
-
 #  <p align="center" >   Menu-Dropdown </p>
-### Teste <p align="center" > Teste Front-End </p>
+### <p align="center" > Teste Front-End </p>
 -------------------------------------------------
 
 <p align="center">
